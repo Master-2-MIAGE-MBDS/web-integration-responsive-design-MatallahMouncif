@@ -55,8 +55,8 @@ Le code Css du Grid layout de la structure genérale de la page:
    ### Cette page est juste pour le mobile. Je n'ai utilisé pas du Media Queries dans ce CSS. 
    ### La version concaténé du desktop et mobile vous la trouverz dans le Css Dektop_AdsCSS.css et le Html est Deskotp_Ads.html.
    
-   Le Grid c'est la meme chose comme Login. 
-   Pour les flex aussi c'est la meme chose que Login sauf des changements mineurs.
+   Le Grid c'est la meme chose comme Login.   
+   Pour les flex aussi c'est la meme chose que Login sauf des changements mineurs par exemple a la place du flex-direction : column on utilise flex-direction : row.
    La seule différences c'est dans Header on utilise aussi un flex.
   
   
