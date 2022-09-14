@@ -7,12 +7,19 @@
 ![#224900](https://via.placeholder.com/15/224900/224900.png) `#224900` pour les flex Layout qu'on les utilise dans la structure de l'item-b dans la premiére partie du de la classe BODY et du l'item-c dans la deuxiéme partie.  
 ![#ffff00](https://via.placeholder.com/15/ffff00/ffff00.png) `#ffff00` pour les flex Layout qu'on les utilise dans la structure de la classe form qu'elle est dans l'item-c.  
 <img src="https://github.com/Master-2-MIAGE-MBDS/web-integration-responsive-design-MatallahMouncif/blob/main/Capture/FLogin.png"  title="Login" width=300px height=600px>  
-La structure générale de la page est diviser de la facon dans la photo. Ca était fait par le code CSS suivant :  
-```html
-<h2>Example of code</h2>
+Seulement dans La structure générale de la page on utilise les grid layout. Cette page est divisé a trois partie 
+- Header: le texte Sign in  
+- Body : On a deux parties item-b et item-c:
+   - item-b se divise a trois parties une pour l'image et les deux autres pour le texte écrit.
+   - item-c contient une classe form ou cette derniére contient deux parties input de taille différentes répartitionnés avec un flex. 
+        - Premiére partie : contient une classe POP dans un div qui contient deux inputs Username et password. le flex dans cette div est 2
+        - Deuxiéme partie : contient un input submit avec un flex = 1
+ - Footer : Contient un text
 
 
-
+Le code Css du Grid layout de la structure genérale de la page: 
+      
+```css
 .container {
     
     height: 100%;
@@ -28,13 +35,19 @@ La structure générale de la page est diviser de la facon dans la photo. Ca ét
   }
   ```
   
-  Aprés on a le Body qui contient deux items item-b et items-c on a séparé ces deux par ajouté un flex comme le code suivant
-  .body{
-    
-    grid-area: body;
+ Exemple ou on utilisé le flex. Dans item-b on a trois parties était fait de la façon suivantes 
+ ```css
+  .item-b { height: 100%;
+    width: 100%;
+    grid-area: item-b ;
+    flex: 1;
     display: flex;
     flex-direction: column;
-    align-items: center; 
+    align-items: center;
+   background-color: #cfd8dc; 
+  }
+   ```
+  Les autres Flex sont presuqes de la meme façon.
     
   
   }
