@@ -3,9 +3,9 @@
 ##Page Login
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15` pour les Grid Layout qu'on les utilise dans le structure genérale du la classe container.  
-![#3b3b3b](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15` pour les flex Layout qu'on les utilise dans la structure de la classe Body.  
-![#224900](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15` pour les flex Layout qu'on les utilise dans la structure de l'item-b dans la premiére partie du de la classe BODY et du l'item-c dans la deuxiéme partie.  
-![#ffff00](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15` pour les flex Layout qu'on les utilise dans la structure de la classe form qu'elle est dans l'item-c.  
+![#3b3b3b](https://via.placeholder.com/15/f03c15/f03c15.png) `#3b3b3b` pour les flex Layout qu'on les utilise dans la structure de la classe Body.  
+![#224900](https://via.placeholder.com/15/f03c15/f03c15.png) `#224900` pour les flex Layout qu'on les utilise dans la structure de l'item-b dans la premiére partie du de la classe BODY et du l'item-c dans la deuxiéme partie.  
+![#ffff00](https://via.placeholder.com/15/f03c15/f03c15.png) `#ffff00` pour les flex Layout qu'on les utilise dans la structure de la classe form qu'elle est dans l'item-c.  
 <img src="https://github.com/Master-2-MIAGE-MBDS/web-integration-responsive-design-MatallahMouncif/blob/main/Capture/FLogin.png"  title="Login" width=300px height=600px>  
 La structure générale de la page est diviser de la facon dans la photo. Ca était fait par le code CSS suivant :  
 ```html
