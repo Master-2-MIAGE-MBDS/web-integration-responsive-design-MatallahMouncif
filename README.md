@@ -50,7 +50,7 @@ Le code Css du Grid layout de la structure genérale de la page:
    ```
   Les autres Flex sont presuqes de la meme façon.
     
-  ##Page Ads mobile :  
+  ## Page Ads mobile :  
    ### Le Css de cette page est Mobile_AdsCSS.css et le Html est Mobile_Ads.html. 
    ### Cette page est juste pour le mobile. Je n'ai utilisé pas du Media Queries dans ce CSS. 
    ### La version concaténé du desktop et mobile vous la trouverz dans le Css Dektop_AdsCSS.css et le Html est Deskotp_Ads.html.
@@ -78,8 +78,9 @@ Le code Css du Grid layout de la structure genérale de la page:
 
    
  ## Page Ads mobile-desktop Avec Media Queries : 
+   ### Le Css de cette page est Dektop_AdsCSS.css et le Html est Deskotp_Ads.html.   
    ### Une toute nouvelle page avec son propre CSS en utilisant le meme CSS de la Mobile_Ads.css juste en rajoutant plus d'Ads et en utilisant des media Queries. comme    vous voyez dans le gif.  
-   ### Le Css de cette page est Dektop_AdsCSS.css et le Html est Deskotp_Ads.html. 
+   
    
 ![Mobile_To_Desktop](https://github.com/Master-2-MIAGE-MBDS/web-integration-responsive-design-MatallahMouncif/blob/main/Capture/Version_Desktop.html%20and%204%20more%20pages%20-%20Personal%20-%20Microsoft_%20Edge%202022-09-14%2019-49-59.gif)
 
