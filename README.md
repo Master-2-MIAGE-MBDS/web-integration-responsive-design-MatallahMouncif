@@ -6,7 +6,7 @@
 ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15` pour les flex Layout qu'on les utilise dans la structure de la classe Body.  
 ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15` pour les flex Layout qu'on les utilise dans la structure de l'item-b dans la premiére partie du de la classe BODY et du l'item-c dans la deuxiéme partie.  
 ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15` pour les flex Layout qu'on les utilise dans la structure de la classe form qu'elle est dans l'item-c.  
-<img src="https://github.com/Master-2-MIAGE-MBDS/web-integration-responsive-design-MatallahMouncif/blob/main/Capture/FLogin.png"  title="Login" width=100px height=300px>  
+<img src="https://github.com/Master-2-MIAGE-MBDS/web-integration-responsive-design-MatallahMouncif/blob/main/Capture/FLogin.png"  title="Login" width=300px height=600px>  
 La structure générale de la page est diviser de la facon dans la photo. Ca était fait par le code CSS suivant :  
 ```html
 <h2>Example of code</h2>
