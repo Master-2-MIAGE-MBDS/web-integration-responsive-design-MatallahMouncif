@@ -35,7 +35,8 @@ Le code Css du Grid layout de la structure genérale de la page:
   }
   ```
   
- Exemple ou on utilisé le flex. Dans item-b on a trois parties était fait de la façon suivantes 
+ Exemple ou on utilise le flex : dans item-b on a trois parties était fait de la façon suivantes  
+ 
  ```css
   .item-b { height: 100%;
     width: 100%;
