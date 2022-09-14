@@ -50,7 +50,7 @@ Le code Css du Grid layout de la structure genérale de la page:
    ```
   Les autres Flex sont presuqes de la meme façon.
     
-  ## Page Ads mobile :  
+  ## Page Ads mobile sans Media Queries:  
    ### Le Css de cette page est Mobile_AdsCSS.css et le Html est Mobile_Ads.html. 
    ### Cette page est juste pour le mobile. Je n'ai utilisé pas du Media Queries dans ce CSS. 
    ### La version concaténé du desktop et mobile vous la trouverz dans le Css Dektop_AdsCSS.css et le Html est Deskotp_Ads.html.
