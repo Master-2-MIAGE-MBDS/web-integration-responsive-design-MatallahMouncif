@@ -2,7 +2,10 @@
 
 ##Page Login
 
-![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15` pour les Grid Layout qu'on l'utilise dans le structure genérale 
+![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15` pour les Grid Layout qu'on les utilise dans le structure genérale du la classe container.
+![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15` pour les flex Layout qu'on les utilise dans la structure de la classe Body.
+![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15` pour les flex Layout qu'on les utilise dans la structure de l'item-b dans la premiére partie du de la classe BODY et du l'item-c dans la deuxiéme partie.
+![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15` pour les flex Layout qu'on les utilise dans la structure de la classe form qu'elle est dans l'item-c.
 <img src="/Downloads/FLogin"  title="Login2" width=100px height=300px>
 La structure générale de la page est diviser de la facon dans la photo. Ca était fait par le code CSS suivant :
 ```html
