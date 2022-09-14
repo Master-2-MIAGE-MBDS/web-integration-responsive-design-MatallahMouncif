@@ -1,7 +1,9 @@
 #TP1
+
 ##Page Login
+
 ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15` pour les Grid Layout qu'on l'utilise dans le structure genérale 
-<img src="/Downloads/FLogin" alt="Employee data" title="Login2" width=100px height=300px>
+<img src="/Downloads/FLogin"  title="Login2" width=100px height=300px>
 La structure générale de la page est diviser de la facon dans la photo. Ca était fait par le code CSS suivant :
 ```html
 <h2>Example of code</h2>
@@ -47,6 +49,7 @@ La structure générale de la page est diviser de la facon dans la photo. Ca ét
     align-items: center;
    background-color: #cfd8dc; 
   }
+ ```
 
   
   Et pour l'item-c on a un form dans ce dernier on a trois parties input chaqu'une est séparés tout seule par un flex. Vous trouverez le code d'item-c et du form
